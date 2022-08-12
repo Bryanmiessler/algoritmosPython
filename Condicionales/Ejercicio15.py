@@ -19,3 +19,4 @@ elif operador == '%':
     print('Usando el operador',operador,'el resultado sería: ',resultado)
 else:
     print('Introduzca un operador válido')
+    
